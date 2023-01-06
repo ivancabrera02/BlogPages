@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="180 -10 800 300" style="enable-background:new 180 -10 800 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#D15050;}
+	.st2{fill:#5097CC;}
+	.st3{fill:#CA8A65;}
+	.st4{fill:#C6F7FB;}
+	.st5{fill:#70595E;}
+	.st6{fill:url(#oval10_1_);}
+	.st7{fill:#125C9E;}
+	.st8{fill:#1F73B2;}
+	.st9{fill:#1C6B93;}
+	.st10{fill:#AF946C;}
+	.st11{fill:#CCCACA;}
+	.st12{fill:#E0EBE8;}
+	.st13{fill:#217D68;}
+	.st14{fill:#114C70;}
+	.st15{fill:#8FD182;}
+	.st16{fill:#6DA0AB;}
+	.st17{fill:url(#oval9_1_);}
+</style>
+<g id="flagLeft">
+	<rect id="flagPoleLeft" x="254" y="65.5" class="st0" width="4" height="144"/>
+	<path id="leftGreenFlag2" class="st1" d="M217.5,91.3l41-15.3v32L217.5,91.3z"/>
+	<path id="leftGreenFlag" class="st2" d="M217.5,71.3l41-15.3v32L217.5,71.3z"/>
+</g>
+<g id="flagRight">
+	<rect id="flagPoleLeft2" x="914" y="65.5" class="st0" width="4" height="144"/>
+	<path id="leftGreenFlag3" class="st2" d="M877.5,91.3l41-15.3v32L877.5,91.3z"/>
+	<path id="leftGreenFlag4" class="st1" d="M877.5,71.3l41-15.3v32L877.5,71.3z"/>
+</g>
+<g id="brownHouse">
+	<rect id="rectangle15" x="600" y="17.5" class="st3" width="23" height="23"/>
+	<rect id="rectangle16" x="603" y="21.5" class="st4" width="6" height="6"/>
+	<rect id="rectangle17" x="615" y="21.5" class="st4" width="6" height="6"/>
+	<rect id="rectangle18" x="603" y="31.5" class="st4" width="6" height="6"/>
+	<rect id="rectangle19" x="615" y="31.5" class="st5" width="6" height="9"/>
+	<path id="polygon2" class="st5" d="M611.5,5.9l15.4,12.4H596L611.5,5.9z"/>
+	<linearGradient id="oval10_1_" gradientUnits="userSpaceOnUse" x1="618.5034" y1="-9.5042" x2="618.5034" y2="10.5042">
+		<stop  offset="0" style="stop-color:#E0EBE8"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path id="oval10" class="st6" d="M616-0.2c0.1-5.5,1.3-9.7,2.7-9.3s2.4,5.2,2.3,10.7c-0.1,5.5-1.3,9.7-2.7,9.3
+		c-1.3-0.4-2.3-4.7-2.3-10"/>
+	<rect id="rectangle20" x="615" y="6.5" class="st5" width="6.5" height="9"/>
+</g>
+<path id="backHill" class="st7" d="M401,213.5c0-98.9,84.6-179,189-179s189,80.1,189,179H590H401z"/>
+<path id="whiteHill" class="st0" d="M522,365.5c0-123.7,104.1-224,232.5-224S987,241.8,987,365.5H754.5H522z"/>
+<path id="leftHill" class="st8" d="M192,350.5c0-129.8,113.9-235,254.5-235S701,220.7,701,350.5H446.5H192z"/>
+<ellipse id="oval" class="st9" cx="293" cy="198" rx="12" ry="5.5"/>
+<path id="bezier" class="st1" d="M278.5,184l13.4-56l15.6,56H278.5z"/>
+<rect id="rectangle" x="292" y="160.5" class="st10" width="2" height="37"/>
+<path id="bezier2" class="st10" d="M292.5,169.8l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L292.5,169.8z"/>
+<path id="bezier3" class="st10" d="M292.5,177.8l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L292.5,177.8z"/>
+<path id="bezier4" class="st10" d="M293.5,173.8l-5.7-5.8l-1.3,1.3l6.4,6.5l0.4,0.2L293.5,173.8z"/>
+<ellipse id="oval3" class="st9" cx="367.3" cy="169.5" rx="10.3" ry="4"/>
+<path id="bezier9" class="st11" d="M352.5,157.8l13.4-50.9l15.6,50.9H352.5z"/>
+<rect id="rectangle3" x="366" y="139.5" class="st10" width="2" height="30"/>
+<path id="bezier10" class="st10" d="M366.5,144.9l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L366.5,144.9z"/>
+<path id="bezier11" class="st10" d="M366.5,152.2l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L366.5,152.2z"/>
+<path id="bezier12" class="st10" d="M367.5,148.6l-5.7-5.3l-1.3,1.2l6.4,5.9l0.4,0.2L367.5,148.6z"/>
+<ellipse id="oval4" class="st12" cx="791.8" cy="177.5" rx="10.8" ry="4"/>
+<path id="bezier13" class="st11" d="M777.5,165.8l13.4-50.9l15.6,50.9H777.5z"/>
+<rect id="rectangle4" x="791" y="147.5" class="st10" width="2" height="30"/>
+<path id="bezier14" class="st10" d="M791.5,152.9l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L791.5,152.9z"/>
+<path id="bezier15" class="st10" d="M791.5,160.2l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L791.5,160.2z"/>
+<path id="bezier16" class="st10" d="M792.5,156.6l-5.7-5.3l-1.3,1.2l6.4,5.9l0.4,0.2L792.5,156.6z"/>
+<ellipse id="oval5" class="st12" cx="868" cy="193.5" rx="10" ry="4"/>
+<path id="bezier17" class="st1" d="M853.5,180l13.4-56l15.6,56H853.5z"/>
+<rect id="rectangle5" x="867" y="156.5" class="st10" width="2" height="37"/>
+<path id="bezier18" class="st10" d="M867.5,165.8l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L867.5,165.8z"/>
+<path id="bezier19" class="st10" d="M867.5,173.8l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L867.5,173.8z"/>
+<path id="bezier20" class="st10" d="M868.5,169.8l-5.7-5.8l-1.3,1.3l6.4,6.5l0.4,0.2L868.5,169.8z"/>
+<g id="darkGreenTree2">
+	<ellipse id="oval6" class="st12" cx="834" cy="231.5" rx="12" ry="4"/>
+	<path id="bezier21" class="st13" d="M816.5,221l16.4-62l19.1,62H816.5z"/>
+	<rect id="rectangle6" x="833" y="198.5" class="st10" width="2" height="33"/>
+	<path id="bezier22" class="st10" d="M833.5,205.3l5.7-5.8l1.3,1.3l-6.4,6.4l-0.4,0.2L833.5,205.3z"/>
+	<path id="bezier23" class="st10" d="M833.5,213.1l5.7-5.8l1.3,1.3l-6.4,6.4l-0.4,0.2L833.5,213.1z"/>
+	<path id="bezier24" class="st10" d="M834.5,209.2l-5.7-5.8l-1.3,1.3l6.4,6.4l0.4,0.2L834.5,209.2z"/>
+</g>
+<ellipse id="oval2" class="st9" cx="332" cy="182" rx="12" ry="5.5"/>
+<path id="bezier5" class="st13" d="M316.5,168l14.8-69l17.2,69H316.5z"/>
+<rect id="rectangle2" x="331" y="144.5" class="st10" width="2" height="37"/>
+<path id="bezier6" class="st10" d="M331.5,153.8l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L331.5,153.8z"/>
+<path id="bezier7" class="st10" d="M331.5,161.8l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L331.5,161.8z"/>
+<path id="bezier8" class="st10" d="M332.5,157.8l-5.7-5.8l-1.3,1.3l6.4,6.5l0.4,0.2L332.5,157.8z"/>
+<ellipse id="oval7" class="st14" cx="538" cy="73" rx="12" ry="5.5"/>
+<path id="bezier25" class="st15" d="M522.5,59l14.8-69l17.2,69H522.5z"/>
+<rect id="rectangle7" x="537" y="35.5" class="st10" width="2" height="37"/>
+<path id="bezier26" class="st10" d="M537.5,44.8l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L537.5,44.8z"/>
+<path id="bezier27" class="st10" d="M537.5,52.8l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L537.5,52.8z"/>
+<path id="bezier28" class="st10" d="M538.5,48.8l-5.7-5.8l-1.3,1.3l6.4,6.5l0.4,0.2L538.5,48.8z"/>
+<ellipse id="oval8" class="st14" cx="681.3" cy="86.5" rx="10.3" ry="4"/>
+<path id="bezier29" class="st13" d="M666.5,74.8l13.4-50.9l15.6,50.9H666.5z"/>
+<rect id="rectangle8" x="680" y="56.5" class="st10" width="2" height="30"/>
+<path id="bezier30" class="st10" d="M680.5,61.9l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L680.5,61.9z"/>
+<path id="bezier31" class="st10" d="M680.5,69.2l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L680.5,69.2z"/>
+<path id="bezier32" class="st10" d="M681.5,65.6l-5.7-5.3l-1.3,1.2l6.4,5.9l0.4,0.2L681.5,65.6z"/>
+<g id="blueHouse">
+	<rect id="rectangle9" x="393" y="103.5" class="st16" width="30" height="30"/>
+	<rect id="rectangle10" x="397" y="108.5" class="st4" width="8" height="8"/>
+	<rect id="rectangle11" x="412" y="108.5" class="st4" width="8" height="8"/>
+	<rect id="rectangle12" x="397" y="121.5" class="st4" width="8" height="8"/>
+	<rect id="rectangle13" x="412" y="121.5" class="st5" width="8" height="12"/>
+	<path id="polygon" class="st5" d="M408,88.5l19.9,16.1h-39.8L408,88.5z"/>
+	<linearGradient id="oval9_1_" gradientUnits="userSpaceOnUse" x1="417.0027" y1="68.4979" x2="417.0027" y2="94.5021">
+		<stop  offset="0" style="stop-color:#E0EBE8"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path id="oval9" class="st17" d="M414,80.6c0.1-7.2,1.5-12.6,3.2-12.1c1.6,0.5,2.9,6.7,2.8,13.9c-0.1,7.2-1.5,12.6-3.2,12.1
+		c-1.6-0.5-2.8-6.1-2.8-13"/>
+	<rect id="rectangle14" x="413" y="89.5" class="st5" width="7.5" height="12"/>
+</g>
+</svg>

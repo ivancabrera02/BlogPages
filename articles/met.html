@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/style.css">
+    <link rel="stylesheet" href="/styles/blog.css">
+    <title>Iván Cabrera</title>
+</head>
+<body>
+    <header class="Header">
+        <img src="/images/logo.png" alt="ICONO" class="Header__image" width="90" height="90">
+        <a href="../index.html" class="Header__Home" id="home">Home</a>
+        <a href="../blog.html" class="Header__menu" id="blog">Blog</a>
+        <a href="../contact.html" class="Header__menu" id="contact">Contact</a>
+    </header>
+
+    <article class="Blog__article-box">
+        <a class="Blog__article-name" href="/articles/met.html">Malware Evasion Techniques</a>
+        <p class="Blog__article-desc">Sandbox Evasion</p>
+    </article>
+
+    <article class="Write__article-box">
+        <p class="Write__article-text">Modern malware doesn't appear or wreak havoc the moment it lands on your network. 
+            Instead, when establishing a bridgehead, it often implements a series of evasive techniques to avoid being detected 
+            by the cybersecurity tools that protect the network.</p>
+
+        <p class="Write__article-text black-text">What are sandboxes and why do malware employ evasive techniques against them?</p>
+        <p class="Write__article-text">A sandbox is an isolated and controlled virtual environment that’s used for testing and analyzing 
+            suspicious inbound files which can potentially be malware before they are allowed into the network. A sandbox mimics systems running in p
+            roduction in order to trick malware into executing as they normally would. That way, they can be analyzed without the malware affecting real 
+            production environments.</p>
+        <p class="Write__article-text">Because sandboxes are widely known, malware developers now equip their malware with functions/capabilities that enable them 
+            to identify that they are in a sandbox so they can evade these virtual environments and trigger only once they have actually entered the network. Typical 
+            sandbox evasion techniques include the following:</p>
+        <p class="Write__article-text black-text">User interaction detection</p>
+        <p class="Write__article-text">Real production environments are usually characterized by user interaction such as mouse clicks, mouse movements, key strokes, 
+            document scrolling, etc. Some sandbox environments emulate user interactions in order to appear to be real production environments. However, some malware 
+            are smart enough to distinguish simulated behavior to real user interaction.</p>
+        <p class="Write__article-text black-text">Time-based evasion</p>
+        <p class="Write__article-text">Most sandboxes won’t hold a file indefinitely, as doing so may impact productivity if the file in question is part of a business 
+            process. Moreover, sandboxes are resource-intensive. Malware aren’t subject to these types of pressure. They can therefore simply stay dormant until the 
+            sandbox times out. They can also wait for certain actions to take place, such as a reboot or a login.</p>
+        <p class="Write__article-text black-text">Environment evaluation</p>
+        <p class="Write__article-text">Registry, If the registry shows an unusually low number of installed applications, this could be an indication of a sandbox environment.</p>
+        <p class="Write__article-text">Hostname, Some sandboxes use certain hostnames or include certain characters in their hostnames.</p>
+        <p class="Write__article-text">RAM size, An unrealistically small RAM size (e.g. 1GB) can be indicative of a sandbox.</p>
+        <p class="Write__article-text">Number of CPUs, No-one works on single CPU computers nowadays… except virtual machines.</p>
+        <p class="Write__article-text">Hard disk size, Regular machines usually have hdd sizes over 100gb. An abnormally small disk size would could be indicative of a sandbox.</p>
+        <p class="Write__article-text">Screen resolution, It’s highly unlikely that anyone would work today on a very low screen resolution (e.g., 800×600).</p>
+        <p class="Write__article-text">Number of running processes, An unusually low number of running processes can be indicative of a sandbox environment.</p>
+        
+        
+        
+    </article>
+</body>

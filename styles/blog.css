@@ -1,0 +1,35 @@
+.Blog__title{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.Blog__title-h1{
+    color: rgb(27, 27, 236);
+    font-size: 40px;
+}
+.Blog__article-box{
+    border-bottom: 1px solid black;
+    width: 600px;
+    height: 80px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.Blog__article-name{
+    text-decoration: none;
+    font-size: 27px;
+    color: black;
+}
+.Blog__article-desc{
+    font-size: 21px;
+    margin-top: 10px;
+}
+.Write__article-box{
+    width: 600px;
+    margin: 0 auto;
+}
+.black-text{
+    font-weight: bold;
+}
